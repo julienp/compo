@@ -12,7 +12,7 @@ This Python Pulumi component uses "boostrap-less" mode, that is it does not have
 
 ## Example
 
-The [`./example`](./example) folder contains a Pulumi program that has the package linked in editable mode, via `uv add --editable ../`.
+The [`./example`](./example) folder contains a Pulumi program that has the package linked in editable mode, via `uv add --editable ../`. Here the component is used as an "in-language-component".
 
 ```
 % cd example
