@@ -1,0 +1,7 @@
+name: example-packages
+runtime:
+  name: python
+  options:
+    toolchain: uv
+packages:
+  compo: ..@0.0.0

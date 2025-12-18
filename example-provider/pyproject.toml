@@ -1,0 +1,11 @@
+[project]
+name = "example-packages"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "pulumi>=3.213.0",
+    "pulumi-compo",
+]
+
+[tool.uv.sources]
+pulumi-compo = { path = "sdks/compo" }
