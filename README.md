@@ -30,4 +30,4 @@ Resources:
     + 2 to create
 ```
 
-The [`./example-provider`](./example-provider) folder contains a Pulumi program that uses the plugin as a [component provider](https://www.pulumi.com/docs/iac/guides/building-extending/components/build-a-component/)
+The [`./example-provider`](./example-provider) folder contains a Pulumi program that uses the plugin as a [component provider](https://www.pulumi.com/docs/iac/guides/building-extending/components/build-a-component/). The package was added via `pulumi package add ..`.
