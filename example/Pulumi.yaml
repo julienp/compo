@@ -1,0 +1,5 @@
+name: example
+runtime:
+  name: python
+  options:
+    toolchain: uv
